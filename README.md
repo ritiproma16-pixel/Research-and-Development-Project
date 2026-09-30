@@ -30,4 +30,4 @@ The prototype delivers a working smart-seating system with sensor-based monitori
 
 Acknowledgments
 
-Hong Kong Society for the Blind, KMB, and course instructors.
+Hong Kong Society for the Blind, KMB, and course instructors
